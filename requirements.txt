@@ -1,0 +1,9 @@
+scipy
+pandas
+gym
+tensorboardX
+tensorboard
+wandb
+setproctitle
+numpy = -1.23.5
+imageio
